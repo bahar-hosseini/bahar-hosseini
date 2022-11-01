@@ -35,4 +35,4 @@
 
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=bahar-hosseini.bahar-hosseini)
- ![Snake animation](https://github.com/bahar-hosseini/bahar-hosseini/blob/output/github-contribution-grid-snake.svg)
+
