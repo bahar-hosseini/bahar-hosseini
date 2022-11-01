@@ -1,4 +1,5 @@
 ### Hi there, I'm [Bahar](https://bahosseini.com/)  👋
+## I'm a Full Stack Developer
 
 
 <div id="header" align="center">
@@ -10,12 +11,16 @@
 - 🔭 I’m currently working on a carpool project
 - 🌱 I’m currently learning Typescript, Elasticsearch, Docker and Kubernetes.
 - 🐧 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-    email: bahar.hosseini@gmail.com
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+
+[![linkdin](https://www.linkedin.com/in/bahar-hosseini/)
+    📫: bahar.hosseini@gmail.com
     website: https://bahosseini.com/
     
-- ⚡ Fun fact: ...
 
+
+
+<!-- - ⚡ Fun fact: ...
+ -->
