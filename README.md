@@ -2,7 +2,7 @@
 I am a Full Stack Developer
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="100"/>
+  <img src="https://temforce.net/wp-content/uploads/2019/07/WOMAN-ALPHA.gif" width="100"/>
 
 </div>
 
