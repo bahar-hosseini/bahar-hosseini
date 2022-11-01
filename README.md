@@ -1,7 +1,8 @@
 ### Hi there 👋
+I am a Full Stack Developer
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/>
 </div>
 
 
