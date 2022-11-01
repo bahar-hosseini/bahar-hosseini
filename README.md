@@ -15,8 +15,7 @@
 <!-- -  I’m looking to collaborate on ... -->
 <!-- -  Alwyas aiming at usability and code performance -->
 <!-- - 💬 Ask me about ... -->
- ![](https://visitor-badge.laobi.icu/badge?page_id=bahar-hosseini
-.bahar-hosseini)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=bahar-hosseini.bahar-hosseini)
 
 
 ## Languages and Tools:
