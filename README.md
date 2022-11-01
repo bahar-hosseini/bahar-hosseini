@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a Full Stack Developer
+### Hi there, I'm [Bahar](https://bahosseini.com/)  👋
+
 
 <div id="header" align="center">
   <img src="https://temforce.net/wp-content/uploads/2019/07/WOMAN-ALPHA.gif" width="100"/>
