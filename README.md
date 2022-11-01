@@ -1,4 +1,4 @@
-## Hi there, I'm [Bahar](https://bahosseini.com/)  👋
+### Hi there, I'm [Bahar](https://bahosseini.com/)  👋
 ### I'm a Full Stack Developer
 
 
