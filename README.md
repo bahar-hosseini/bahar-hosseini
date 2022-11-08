@@ -8,7 +8,7 @@
 </div>
 
 
-- 🔭 I’m currently working on a [carpool](https://github.com/bahar-hosseini/carpool) project. (Node, Express, Typescript, React ,PostgreSQL, tailwindcss)
+- 🔭 I’m currently working on a [carpool](https://github.com/bahar-hosseini/carpool) project. <small>(Node, Express, Typescript, React ,PostgreSQL, tailwindcss)</small>
 - 🌱 I’m currently learning Typescript, Elasticsearch, Docker and Kubernetes.
 - 🐧 I love Linux
 - 💫 Always aiming at usability and code performance
