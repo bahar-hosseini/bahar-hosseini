@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on a [carpool](https://github.com/bahar-hosseini/carpool) project
 - 🌱 I’m currently learning Typescript, Elasticsearch, Docker and Kubernetes.
 - 🐧 I love Linux
-- 💫 Alwyas aiming at usability and code performance
-- 👩🏼‍🍳 Always developing new recipes
+- 💫 Always aiming at usability and code performance
+<!-- - 👩🏼‍🍳 Always developing new recipes -->
 <!-- -  I’m looking to collaborate on ... -->
 <!-- -  Alwyas aiming at usability and code performance -->
 <!-- - 💬 Ask me about ... -->
