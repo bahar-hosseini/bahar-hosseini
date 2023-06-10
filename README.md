@@ -8,7 +8,7 @@
 </div>
 
 
-- 🌱 I’m currently learning Typescript, Docker and Kubernetes.
+- 🌱 I’m currently learning C#, Docker and Kubernetes.
 - 🐧 I love Linux
 - 📚  life-long learner
 - 💫 Always aiming at usability and code performance
